@@ -1,10 +1,10 @@
 # Midnight Theatre
 
-Frontend for the study-alpha Call of Cthulhu investigation.
+Frontend for a single-investigator Paper Chase playtest.
 
 [Open the website](https://335083474.github.io/midnight-theatre/)
 
-Create a room to start a single-investigator study scene with MiniMax. The independent Cloudflare backend stores progress for seven days and rolls dice. TVs join with the eight-character room code; only the investigator sees private notes. This is a study test slice, not the complete Paper Chase scenario or a full CoC engine.
+Create a room to start a single-investigator investigation with MiniMax. The independent Cloudflare backend stores progress for seven days and rolls dice. TVs join with the eight-character room code; only the investigator sees private notes. Includes investigation locations, encounters, endings and rewards. Uses an adapted test investigator and documented timing choices; not a general CoC engine or an officially reviewed product.
 
 No-room query routes and demo code CTH192 retain the original synthetic UI walkthrough.
 
