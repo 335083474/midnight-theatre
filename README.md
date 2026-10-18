@@ -4,7 +4,7 @@ Frontend for a single-investigator Paper Chase playtest.
 
 [Open the website](https://335083474.github.io/midnight-theatre/)
 
-Create a room to start a single-investigator investigation with MiniMax. The independent Cloudflare backend stores progress for seven days and rolls dice. TVs join with the eight-character room code; only the investigator sees private notes. Includes investigation locations, encounters, endings and rewards. Uses an adapted test investigator and documented timing choices; not a general CoC engine or an officially reviewed product.
+Create a room to start a single-investigator investigation with MiniMax. The independent Cloudflare backend supports accounts, account-bound saves and server-owned dice; guest rooms expire after seven days. TVs join with the eight-character room code; only the investigator sees private notes. Includes a free original short investigation, private scenario authoring and an internal Paper Chase test. Paid checkout remains disabled until a merchant, pricing and licensed catalog are configured. Uses an adapted test investigator and documented timing choices; not a general CoC engine or an officially reviewed product.
 
 No-room query routes and demo code CTH192 retain the original synthetic UI walkthrough.
 

@@ -1,16 +1,19 @@
 {
-  "release": "20261018T162650Z",
+  "release": "20261018T170446Z",
   "kind": "paper-chase-playtest-frontend",
   "site": "https://335083474.github.io/midnight-theatre/",
   "files": {
-    "assets/index-BQ3M3GYp.css": "7e71a626d85edbba8387f3342e2153bd3f3470372fd2ceb47e45bf1051476a7d",
-    "assets/index-pXTBLc_F.js": "1b1728b48c5dd91647689e13c7949e9059595a3eb1365d6c82822c8915dda4ba",
+    "assets/index-BTFQoCE3.css": "3222c91b09d044f917984e9c76fa5ee2324c654bafc3da7eea9d74a3839a9c57",
+    "assets/index-DbQol5GO.js": "6422ce9eae4b953ce011e22c745a85b442bc988e376f912d3c78e2088860376b",
     "assets/investigator.png": "88b234397799fe4a485fb9baa210b2f7e374314c23b5dfe1137a58ae91d86c8a",
     "assets/keeper-curtain-v1.png": "802c485f294f456ed77761f45940930fcbbb8ac7799c39ca70b83cc22898bc77",
     "assets/midnight-seal.png": "2d8a68b8ed54333e297e02ba46d7063b50889e98a6c35cf73572c3f1749300fa",
     "assets/paper-chase-cover.png": "ddf6af33e489bca8d609aeecd6a11955795a87247a1e30d211d4cee345eca175",
+    "assets/pdf-CE_K4jFx.js": "cc2e67417cd9342a7d899b09f00c9dd2e4700ae503a71524ef6ecfc95cc7265b",
+    "assets/pdf.worker.min-BDPki_jR.js": "b41e7cf42d648db0366d0dd08e22ec46ec8fabfeccefe71f5a4334ebf5822bf7",
+    "assets/pdf.worker.min-wgc6bjNh.mjs": "f499515a0dc93d97787d693a75218a439675719283f56812067c036dcae1f8d5",
     "assets/rlyeh-hero.png": "05d68a7e2726d873ce51cfb3efbdcefc0b9d1a489b007b612ee8abdb76f1213a",
     "assets/thomas-study.png": "1310d846f2a54d851580f5d0c4eabce9fc0d3f6860928e707dd75868c2656bf8",
-    "index.html": "5181e74d5fddf4b1f7b5fa93e00c26745d1339ab34a13d46a6ff9a1da26f482d"
+    "index.html": "0ec7764e40db4ea9d15dd8dc66419d80b1fd9d68948b0a632dad21f2cd4d6cbc"
   }
 }
