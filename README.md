@@ -1,13 +1,11 @@
 # Midnight Theatre
 
-Static UI preview for a face-to-face Call of Cthulhu table.
+Frontend for the study-alpha Call of Cthulhu investigation.
 
-[Open the preview](https://335083474.github.io/midnight-theatre/)
+[Open the website](https://335083474.github.io/midnight-theatre/)
 
-- Home: create-demo and module introduction
-- TV: `?view=tv`; player phone: `?view=player`; paired view: `?view=table`
-- Demo room code: `CTH192`
+Create a room to start a single-investigator study scene with MiniMax. The independent Cloudflare backend stores progress for seven days and rolls dice. TVs join with the eight-character room code; only the investigator sees private notes. This is a study test slice, not the complete Paper Chase scenario or a full CoC engine.
 
-This preview uses synthetic responses and fixed example dice. It has no AI Keeper, real room server, cross-device synchronization, account system, or saved campaign. Public scene synchronization works only between same-origin tabs in one browser.
+No-room query routes and demo code CTH192 retain the original synthetic UI walkthrough.
 
-Only compiled frontend files and generated atmospheric artwork are published here. No scenario PDF, private scenario pack, credentials, or backend data is included. This is an unofficial prototype, not a Chaosium product.
+Only compiled frontend files and generated atmospheric artwork are published here. No scenario PDF, private pack, backend source, credentials, or campaign records are included. This is an unofficial prototype, not a Chaosium product.
