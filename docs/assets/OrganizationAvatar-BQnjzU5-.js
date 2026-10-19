@@ -1,1 +1,0 @@
-import{A as o}from"./Avatar-B602jsyq.js";import{j as s}from"./common-D-SME58N.js";const l=r=>{const{name:a="",imageUrl:t,showLoadingSpinner:i,...n}=r;return s(o,{title:a,initials:(a||" ")[0],imageUrl:t,showLoadingSpinner:i,rounded:!1,...n})};export{l as O};

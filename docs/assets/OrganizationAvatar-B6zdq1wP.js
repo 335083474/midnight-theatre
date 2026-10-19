@@ -1,0 +1,1 @@
+import{A as o}from"./Avatar-Dm9cRw6t.js";import{j as s}from"./common-BFNRqoTz.js";const l=r=>{const{name:a="",imageUrl:t,showLoadingSpinner:i,...n}=r;return s(o,{title:a,initials:(a||" ")[0],imageUrl:t,showLoadingSpinner:i,rounded:!1,...n})};export{l as O};
