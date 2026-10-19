@@ -1,10 +1,11 @@
 {
-  "release": "20261018T171330Z",
-  "kind": "midnight-accounts-creator-pilot",
+  "release": "20261019T025616Z",
+  "kind": "midnight-identity-binding-pilot",
   "site": "https://335083474.github.io/midnight-theatre/",
   "files": {
-    "assets/index-BTFQoCE3.css": "3222c91b09d044f917984e9c76fa5ee2324c654bafc3da7eea9d74a3839a9c57",
-    "assets/index-BVkh-Ygn.js": "8be0b0c9a10d7a0a5c1ca53654004d649cc15132ad64e4d551cebdc78d2c48e1",
+    "assets/index-BfDujArC.js": "22cbf1c08a96d50ee7e86727f21039e5e2c274610e76a5f0d0ac1ad205df996f",
+    "assets/index-BkCIgC0T.css": "3031c992eda7f0288f5340a90644c32cd4c6b539d7628462b5475f21e6893ad3",
+    "assets/index-DBaPD1EU.js": "e476b360abf433ec232116600c4c9a4248a5e244355cd52b385340e2a81f1a40",
     "assets/investigator.png": "88b234397799fe4a485fb9baa210b2f7e374314c23b5dfe1137a58ae91d86c8a",
     "assets/keeper-curtain-v1.png": "802c485f294f456ed77761f45940930fcbbb8ac7799c39ca70b83cc22898bc77",
     "assets/midnight-seal.png": "2d8a68b8ed54333e297e02ba46d7063b50889e98a6c35cf73572c3f1749300fa",
@@ -14,6 +15,6 @@
     "assets/pdf.worker.min-wgc6bjNh.mjs": "f499515a0dc93d97787d693a75218a439675719283f56812067c036dcae1f8d5",
     "assets/rlyeh-hero.png": "05d68a7e2726d873ce51cfb3efbdcefc0b9d1a489b007b612ee8abdb76f1213a",
     "assets/thomas-study.png": "1310d846f2a54d851580f5d0c4eabce9fc0d3f6860928e707dd75868c2656bf8",
-    "index.html": "af3f44bdfa0d99824ff3f56d095e0260f35725033e43bb4061368ca9dd239a69"
+    "index.html": "f21701983103ebf6357ca11ee7977dbb46fc4ac688f5a2f56978fc986a80e61a"
   }
 }
