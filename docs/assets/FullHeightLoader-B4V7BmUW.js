@@ -1,1 +1,0 @@
-import{d as e}from"./makeCustomizable-DSRStoPN.js";import{S as o,F as s}from"./index-jaJFC7eI.js";import{j as r}from"./common-DymmIU6k.js";const n=()=>r(s,{center:!0,sx:{height:"100%"},children:r(o,{colorScheme:"primary",size:"lg",elementDescriptor:e.spinner})});export{n as F};
