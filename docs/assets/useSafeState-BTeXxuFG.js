@@ -1,0 +1,1 @@
+import{R as e}from"./index-XpBeYTLz.js";function c(r){const[u,s]=e.useState(r),t=e.useRef(!0);return e.useEffect(()=>(t.current=!0,()=>{t.current=!1}),[]),[u,e.useCallback(a=>{t.current&&s(a)},[])]}export{c as u};
