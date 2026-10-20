@@ -1,0 +1,1 @@
+import{S as a}from"./add-BRSNYezD.js";import{A as i}from"./PreviewButton-exxOLp5C.js";import{u as s,j as e}from"./common-BZSUj8r_.js";const p=t=>{const{icon:o=a,...n}=t,{user:r}=s();return r!=null&&r.createOrganizationEnabled?e(i,{...n,icon:o}):null};export{p as C};
