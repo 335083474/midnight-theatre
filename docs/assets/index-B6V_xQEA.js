@@ -1,1 +1,0 @@
-import{u as o}from"./AppearanceContext-rK98MPc2.js";import"./index-D33a21Br.js";import{j as t,aT as m}from"./common-Dc9PVbe0.js";import"./OptionsContext-BTtivHfG.js";const s=e=>{const{parsedInternalTheme:r}=o();return t(m,{theme:r,children:e.children})};export{s as InternalThemeProvider};
