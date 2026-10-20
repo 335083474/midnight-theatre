@@ -1,0 +1,1 @@
+import{e as r}from"./common-Bwe_hGGF.js";const u=n=>{const s=r().client.signedInSessions;return{signedInSessions:s,otherSessions:s.filter(o=>{var e,i;return((e=o.user)==null?void 0:e.id)!==((i=n.user)==null?void 0:i.id)})}};export{u};

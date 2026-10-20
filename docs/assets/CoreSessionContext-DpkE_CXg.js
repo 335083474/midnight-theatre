@@ -1,0 +1,1 @@
+import"./index-CQxAkCHh.js";import{h as r,j as t}from"./common-Bwe_hGGF.js";function u(s){const e=i=>typeof r()>"u"?null:t(s,{...i}),a=s.displayName||s.name||"Component";return s.displayName=a,e.displayName=a,e}export{u as w};
