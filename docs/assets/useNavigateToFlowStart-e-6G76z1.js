@@ -1,0 +1,1 @@
+import{u as o}from"./RouteContext-DWy5wCJs.js";const s=()=>{const t=o();return{navigateToFlowStart:async()=>{var r,e;const a=t.indexPath;if(a!==t.currentPath)return t.navigate(a);if((r=t.urlStateParam)!=null&&r.path)return t.navigate("/"+t.basePath+((e=t.urlStateParam)==null?void 0:e.startPath))}}};export{s as u};
