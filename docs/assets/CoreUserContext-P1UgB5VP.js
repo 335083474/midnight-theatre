@@ -1,0 +1,1 @@
+import"./index-vMZ4CEfI.js";import{v as i,j as t}from"./common-DslvTg3Z.js";function m(a){const r=e=>i()?t(a,{...e}):null,s=a.displayName||a.name||"Component";return a.displayName=s,r.displayName=s,r}export{m as w};
