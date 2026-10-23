@@ -1,0 +1,1 @@
+import{A as l}from"./Avatar-B_pWbWWS.js";import{j as o}from"./common-By_AW_g8.js";import{b as n,g}from"./user-SWcUqETi.js";const v=e=>{const{name:a,firstName:t,lastName:r,avatarUrl:s,imageUrl:i,...m}=e;return o(l,{title:g({name:a,firstName:t,lastName:r}),initials:n({name:a,firstName:t,lastName:r}),imageUrl:s||i,...m})};export{v as U};
